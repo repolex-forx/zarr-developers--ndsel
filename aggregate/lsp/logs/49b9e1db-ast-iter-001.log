@@ -1,0 +1,7 @@
+[2026-10-28T11:27:00Z] === AST ITERATION 1 START | repo=zarr-developers/ndsel sha=49b9e1db ===
+[2026-10-28T11:27:00Z] [iter=1] PHASE START: ast repo=zarr-developers/ndsel sha=49b9e1db
+[2026-10-28T11:27:00Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T11:27:11Z] [iter=1] AST chunks built count=1 triples=189678
+[2026-10-28T11:27:11Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/49b9e1db1ca93c55f320b025a666367de87a9014/.complete
+[2026-10-28T11:27:11Z] [iter=1] PHASE END: ast elapsed_s=10 elapsed_min=0.2
+[2026-10-28T11:27:11Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
